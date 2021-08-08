@@ -4,6 +4,7 @@ This project is to use regular expression patterns for detecting useful informat
 ## Prerequisite 
 
 1. Source file from glygen website: 
+
 GlyConnect: \
 human: https://data.glygen.org/GLY_000329 \
 mouse: https://data.glygen.org/GLY_000330 \
